@@ -1,0 +1,7 @@
+#install dependicies
+pip install huggingface transformers
+pip install torch
+pip install fastapi
+
+#run code
+python handwritten.py
